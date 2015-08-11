@@ -2,7 +2,7 @@ He didn't know why they were there... but they were.
 Let's test if this works.
 Let's see the results of typing on one line at the same time!
 Let's add more changes!
-<<<<<<< HEAD
+
 
 
 
@@ -24,11 +24,11 @@ Will these lines go through a clean merge?
 Or is there going to be a conflict?
 I guess we'll find out
 
-=======
+
 a
 b
 c
 d
 e
 f
->>>>>>> 976665c6291aec5e5b1762902586a252a9c73dab
+
