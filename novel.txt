@@ -1,2 +1,3 @@
 He didn't know why they were there... but they were.
 Let's test if this works.
+This should be a conflicted line if we both commit at the same time.
