@@ -2,3 +2,24 @@ He didn't know why they were there... but they were.
 Let's test if this works.
 Let's see the results of typing on one line at the same time!
 Let's add more changes!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+James - my section begins line 21
+Will these lines go through a clean merge?
+Or is there going to be a conflict?
+I guess we'll find out
+
